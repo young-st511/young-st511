@@ -1,8 +1,8 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jung-YoungHun&fontSize=90" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jung-YoungHun&fontSize=90&customColorList=12,24" />
 
 # 👋 Hello, World! I’m Young!
 > It's my real name, not a joke 🙃
-
+#61dafb 234
 - 🌱 I’m a rookie Front-End developer from South Korea 🇰🇷
 - Falling in ❤️ with <img align="center" src="https://img.shields.io/badge/-React-white?logo=react&style=flat" alt="React" />
 
