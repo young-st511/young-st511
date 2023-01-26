@@ -37,10 +37,9 @@
 - Docker
 - Jest
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=young-st511&hide=stars,contribs&show_icons=true" alt="Young's GitHub stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=young-st511&layout=compact" alt="Top Langs" />
-</div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=young-st511&hide=stars,contribs&show_icons=true&theme=react" alt="Young's GitHub stats" />
+    
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=young-st511&layout=compact&theme=react" alt="Top Langs" />
 
 <!---
 young-st511/young-st511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
