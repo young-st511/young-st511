@@ -9,13 +9,21 @@
 - 🌱 I’m a rookie Front-End developer from South Korea 🇰🇷
 - Falling in ❤️ with <img align="center" src="https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=flat" alt="React" />
 
-## 📫 How to reach me
+<br />
+
+## 📫 Contact & Channel
 
 - Email: <a href="mailto:youngst511@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/-Please_Email_me-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="my email" />
+  <img align="center" src="https://img.shields.io/badge/-Please_Email_me-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="my Email" />
   </a>
+- Blog: <a href="https://youngst.tistory.com">
+  <img align="center" src="https://img.shields.io/badge/-Visit_My_Blog-000000?logo=Tistory&logoColor=white&style=for-the-badge" alt="my Blog" />
+  </a>
+<br />
 
 ---
+
+<br />
 
 ## 🧑🏻‍💻 Languages & Frameworks
 
@@ -36,7 +44,11 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white&style=flat-square)
 ![Remix](https://img.shields.io/badge/Remix-000000?logo=Remix&logoColor=white&style=flat-square)
 
+<br />
+
 ---
+
+<br />
 
 ## 🧑🏻‍🔧 Technologies & Tools
 
@@ -53,8 +65,9 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat-square)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=white&style=flat-square)
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=young-st511&hide=stars,contribs&show_icons=true&theme=react" alt="Young's GitHub stats" />  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=young-st511&layout=compact&theme=react" alt="Top Langs" />
+<br />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=young-st511&hide=stars,contribs&show_icons=true&theme=react" alt="Young's GitHub stats" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=young-st511&layout=compact&theme=react" alt="Top Langs" />
 
 <!---
 young-st511/young-st511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
