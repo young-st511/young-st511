@@ -16,8 +16,11 @@
 - Email: <a href="mailto:youngst511@gmail.com">
   <img align="center" src="https://img.shields.io/badge/-Please_Email_me-EA4335?logo=gmail&logoColor=white&style=for-the-badge" alt="my Email" />
   </a>
-- Blog: <a href="https://youngst.tistory.com">
+- Blog(in Korean): <a href="https://youngst.tistory.com">
   <img align="center" src="https://img.shields.io/badge/-Visit_My_Blog-000000?logo=Tistory&logoColor=white&style=for-the-badge" alt="my Blog" />
+  </a>
+- Resume(in Korean): <a href="https://youngst.notion.site/Front-end-Developer-d9cb4c68eb324a8d8fc325bbd69316b9">
+  <img align="center" src="https://img.shields.io/badge/-Resume-000000?logo=Notion&logoColor=white&style=for-the-badge" alt="my Resume" />
   </a>
 <br />
 
