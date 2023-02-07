@@ -69,8 +69,8 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=white&style=flat-square)
 
 <br />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=young-st511&hide=stars,contribs&show_icons=true&theme=react" alt="Young's GitHub stats" />  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=young-st511&layout=compact&theme=react" alt="Top Langs" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=young-st511&hide=stars,contribs&show_icons=true" alt="Young's GitHub stats" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=young-st511&layout=compact" alt="Top Langs" />
 
 <!---
 young-st511/young-st511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
