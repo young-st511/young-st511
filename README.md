@@ -30,8 +30,6 @@
 
 ## 🧑🏻‍💻 Languages & Frameworks
 
-### 📖 What I am using & improving 🔥
-
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=black&style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?logo=Typescript&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -48,13 +46,17 @@
 
 ## 🧑🏻‍🔧 Technologies & Tools
 
-| ### 🛠️ Using as the main                                                                                                                                                                                                                                                                                                                                                                                                           | ### 🌱 Using at least once                                                                                                                                                                                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🛠️ Using as the main | 🌱 Using at least once |
+| -------------------- | -------------------------- |
 | ![Github](https://img.shields.io/badge/Github-000000?logo=Github&logoColor=white&style=for-the-badge) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=Vite&logoColor=white&style=for-the-badge) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=Firebase&logoColor=black&style=for-the-badge) | ![AmazonS3](https://img.shields.io/badge/AmazonS3-569A31?logo=AmazonS3&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat-square) ![Jest](https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=white&style=flat-square) |
 
 <br />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=young-st511&hide=stars,contribs&show_icons=true&theme=react" alt="Young's GitHub stats" />  
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=young-st511&layout=compact&theme=react" alt="Top Langs" />
+
+---
+
+### 저에 대한 더 많은 정보는 [이력서](https://youngst.notion.site/Front-end-Developer-d9cb4c68eb324a8d8fc325bbd69316b9)와 [블로그](https://youngst.tistory.com)를 참고해주세요!
 
 <!---
 young-st511/young-st511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
