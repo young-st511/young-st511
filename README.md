@@ -40,13 +40,6 @@
 ![NextJS](https://img.shields.io/badge/Next.js-000000?logo=Next.js&logoColor=white&style=for-the-badge)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 
-### 👾 What I want to learn soon
-
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=NestJS&logoColor=white&style=flat-square)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=Svelte&logoColor=white&style=flat-square)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white&style=flat-square)
-![Remix](https://img.shields.io/badge/Remix-000000?logo=Remix&logoColor=white&style=flat-square)
-
 <br />
 
 ---
